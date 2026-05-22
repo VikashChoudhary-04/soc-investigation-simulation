@@ -192,3 +192,47 @@ index=main ("powershell" OR "cmd.exe" OR "rundll32" OR "mshta")
   * incident response methodology
   * threat hunting
   * ATT&CK analysis
+
+---
+
+## Investigation Screenshots
+
+### Authentication Monitoring
+
+![Authentication Monitoring](screenshots/auth-monitoring.png)
+
+---
+
+### Failed Authentication Analysis
+
+![Failed Logins](screenshots/failed-logins.png)
+
+---
+
+### Privileged Activity Investigation
+
+![Privileged Activity](screenshots/privileged-activity.png)
+
+---
+
+### Process Creation Analysis
+
+![Process Creation](screenshots/process-creation.png)
+
+---
+
+### Threat Hunting Investigation
+
+![Threat Hunting](screenshots/threat-hunting.png)
+
+---
+
+### Authentication Timeline
+
+![Authentication Timeline](screenshots/auth-timeline.png)
+
+---
+
+### Process Timeline
+
+![Process Timeline](screenshots/process-timeline.png)
