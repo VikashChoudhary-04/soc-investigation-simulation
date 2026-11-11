@@ -169,20 +169,6 @@ index=main ("powershell" OR "cmd.exe" OR "rundll32" OR "mshta")
 
 ---
 
-## Future Improvements
-
-- Potential future enhancements include:
-
-  * Sysmon integration
-  * Threat intelligence enrichment
-  * Automated detections
-  * Sentinel/KQL integration
-  * Dashboard creation
-  * IOC enrichment
-  * Detection tuning
-
----
-
 ## Project Status
 
 - Completed SOC investigation simulation project focused on:
